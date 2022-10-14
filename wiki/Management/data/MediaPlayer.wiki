@@ -1,0 +1,40 @@
+﻿++ Media Player
+
+As jQueryUi Type....
+
+* Options
+    * current
+    * random
+    * repeat
+    * volume
+    * mode (all|video|audio|image)
+    * controls
+
+* Events
+    * Media
+        * on-start
+        * on-stop
+        * on-pause
+        * on-end
+        * on-error
+        * on-loaded
+        * on-seek
+* Hooks/Registered Providers
+    * Next
+    * Previous
+    * Info
+
+* Actions/Triggers
+    * Media
+        * play
+        * stop
+        * pause
+        * skip(forward|backward)
+        * seek(time?audio/video)
+        * volume(0~100)
+
+* Plugins
+    * Visualizer (audio)
+    * Tagger
+    * Ratings
+    * Lyrics (audio)

@@ -1,0 +1,9 @@
+
+Type()
+===============
+Modify Type(obj, 'type') => bool functionality to implement [types] to compare for multi types
+
+
+Array.prototype.Match()
+=======================
+Functionality to filter an array based upon a match string or regex

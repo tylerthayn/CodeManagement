@@ -1,0 +1,8 @@
+﻿++ Options
+
+    * recursive
+    * browseable
+    * dotFiles
+    * mods: r/w/x
+    * ownership: user/group
+    * filters

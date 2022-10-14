@@ -1,0 +1,25 @@
+﻿++ Console
+
+A class built off the vm for running code from another source.  Typical usage is electron apps with renderer process executing REPL style commands to control modules such as Server.
+
+*Events*
+    * command (added)
+    * context (changed)
+    * error
+    * run (complete)
+    * log
+    * destroy
+    
+*Properties*
+    * commands{}
+    * context
+    * history[]
+    * autoComplete[]
+
+*Functions*
+    * AutoComplete(s)
+    * AddCommand()
+    * Run(code)
+    * RunCommand(command)
+    * RunScript(file)
+    * Context() (Invoke re-create, .context already modified)

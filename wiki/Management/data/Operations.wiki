@@ -1,0 +1,9 @@
+﻿++ Operations
+
+    * [List]
+    * [Info]
+    * [Get]
+    * [Create]
+    * [Put]
+    * [Update]
+    * [Delete]

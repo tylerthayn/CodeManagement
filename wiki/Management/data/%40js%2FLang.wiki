@@ -1,0 +1,9 @@
+﻿++ @js/Lang
+
+*Provider*
+    Similar to MSN IFace theory.  Specify set of standard operations rather than operations themselves?..?
+    
+    
+[Fs]
+
+[priority: 3]

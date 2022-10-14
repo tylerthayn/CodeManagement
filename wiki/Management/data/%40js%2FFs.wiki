@@ -1,0 +1,18 @@
+﻿++ @js/Fs
+
+*Fs Operations*
+    * Copy
+    * Delete
+    * Details
+    * Exists
+    * Get
+    * List
+    * Move
+    * Put
+
+*Fs.Stream Operations*
+    * Details
+    * Get
+    * List
+    * Put
+ 

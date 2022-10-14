@@ -1,0 +1,23 @@
+
+<deployment>
+	<name>@app</name>
+	<description>OS (windows/linux/mac) environment as an installable program</description>
+</deployment>
+<deployment>
+	<name>@chrome</name>
+	<description>Chrome(Edge) based browser extension</description>
+</deployment>
+<deployment>
+	<name>@js</name>
+	<description>Any javascript environment</description>
+</deployment>
+<deployment>
+	<name>@node</name>
+	<description>NodeJs environment</description>
+</deployment>
+<deployment>
+	<name>@web</name>
+	<description>Any web(browser) based environment</description>
+</deployment>
+
+

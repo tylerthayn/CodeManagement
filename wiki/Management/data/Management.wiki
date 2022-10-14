@@ -1,0 +1,37 @@
+﻿++ Management
+
+*Projects*
+* [wiki:///D:/TTS/management/wiki/Management/Management.wiki?page=%40app%2Fplatform|App Platform]
+* [wiki:///D:/TTS/management/wiki/Management/Management.wiki?page=%40app%2FMediaPlayer|Media Player]
+* Coding Standardizations
+
+*Major Packages*
+* [wiki:///D:/TTS/management/wiki/Management/Management.wiki?page=%40js%2Fcore|@js/core]
+* [wiki:///D:/TTS/management/wiki/Management/Management.wiki?page=%40node%2Fcore|@node/core]
+* [wiki:///D:/TTS/management/wiki/Management/Management.wiki?page=%40web%2Fcore|@web/core]
+
+[//CodePackagesOutline]
+
+[//@app/MediaPlayer]
+
+Comonents
+* Bookmarks(Processor/Parser)
+* 
+
+	* [//@js/Archive]
+	* [//@js/Lang]
+	* [VirtualFs]
+	* [Operation]
+	* Provider
+	* VirtualFs
+	* [//Console]
+	* WikiSettings
+	* 
+[//@app/platform]
+
+[//Operation]
+[//Menus]
+[//Provider]
+[//@js/core]
+[//@web]
+[//@web/ui]
